@@ -66,17 +66,17 @@ and forth is always ``Completion``. The third Phase is always the same name, the
 
 **String Report**
 
-![Report String: DIPS Overview with four Phases](https://github.com/danielschulz/DIPS-MISS/images/Report-String-DIPS-Overview-Phases.png)
+![Report String: DIPS Overview with four Phases](https://github.com/danielschulz/DIPS-MISS/blob/master/images/Report-String-DIPS-Overview-Phases.png)
 
 
 **String Exploratory Data Analysis**
 
-![Exploratory Data Analysis String: DIPS Overview with four Phases](https://github.com/danielschulz/DIPS-MISS/images/EDA-String-DIPS-Overview-Phases.png)
+![Exploratory Data Analysis String: DIPS Overview with four Phases](https://github.com/danielschulz/DIPS-MISS/blob/master/images/EDA-String-DIPS-Overview-Phases.png)
 
 
 **String Machine Learning**
 
-![Machine Learning String: DIPS Overview with four Phases](https://github.com/danielschulz/DIPS-MISS/images/ML-String-DIPS-Overview-Phases.png)
+![Machine Learning String: DIPS Overview with four Phases](https://github.com/danielschulz/DIPS-MISS/blob/master/images/ML-String-DIPS-Overview-Phases.png)
 
 
 The first Phase is always the same, even from the ordered tasks to do. The following three Phases are distinct from one
@@ -94,7 +94,7 @@ This card is designed to contain specific aspects for this exact project. Team m
 question comes up first. As the most common questions are covered here, chances are the project has fewer delay as
 the time from question to answer can be reduced.
 
-![Any String: MISS Card](https://github.com/danielschulz/DIPS-MISS/images/Any-String-MISS_CARD.png)
+![Any String: MISS Card](https://github.com/danielschulz/DIPS-MISS/blob/master/images/Any-String-MISS_CARD.png)
 
 From top to bottom:
 
@@ -141,17 +141,17 @@ rough estimate of the allover project state for management reports is possible t
 
 **Report Timeline**
 
-![Reporting String: DIPS Timeline with four Phases](https://github.com/danielschulz/DIPS-MISS/images/Report-String-DIPS-Timeline.png)
+![Reporting String: DIPS Timeline with four Phases](https://github.com/danielschulz/DIPS-MISS/blob/master/images/Report-String-DIPS-Timeline.png)
 
 
 **EDA Timeline**
 
-![Exploratory Data Analysis String: DIPS Timeline with four Phases](https://github.com/danielschulz/DIPS-MISS/images/EDA-String-DIPS-Timeline.png)
+![Exploratory Data Analysis String: DIPS Timeline with four Phases](https://github.com/danielschulz/DIPS-MISS/blob/master/images/EDA-String-DIPS-Timeline.png)
 
 
 **Machine Learning Timeline**
 
-![Machine Learning String: DIPS Timeline with four Phases](https://github.com/danielschulz/DIPS-MISS/images/ML-String-DIPS-Timeline.png)
+![Machine Learning String: DIPS Timeline with four Phases](https://github.com/danielschulz/DIPS-MISS/blob/master/images/ML-String-DIPS-Timeline.png)
 
 
 Why is it, that in all three Phases either
