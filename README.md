@@ -94,7 +94,7 @@ This card is designed to contain specific aspects for this exact project. Team m
 question comes up first. As the most common questions are covered here, chances are the project has fewer delay as
 the time from question to answer can be reduced.
 
-![Any String: MISS Card](https://github.com/danielschulz/DIPS-MISS/blob/master/images/Any-String-MISS_CARD.png)
+![Any String: MISS Card](https://github.com/danielschulz/DIPS-MISS/blob/master/images/Any-String-MISS_Card.png)
 
 From top to bottom:
 
